@@ -1,0 +1,3 @@
+# DenshellGame
+#shitweb
+#paradox
